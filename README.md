@@ -544,6 +544,13 @@ Actively participating in online technical learning and certification programs.
 </div>
 
 ---
+## GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/main/github-metrics.svg" width="100%"/>
+
+</div>
 
 # Leadership & Collaboration
 
