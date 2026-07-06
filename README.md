@@ -452,6 +452,17 @@ Seeking Software Engineering and Artificial Intelligence opportunities where I c
 
 ---
 
+---
+## GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/main/github-metrics.svg" width="100%"/>
+
+</div>
+
+---
+
 # Achievements
 
 <div align="center">
@@ -543,28 +554,8 @@ Actively participating in online technical learning and certification programs.
 
 </div>
 
----
-## GitHub Metrics
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/main/github-metrics.svg" width="100%"/>
-
-</div>
-
----
-
----
-
-# GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/main/github-metrics.svg" width="100%"/>
-
-</div>
-
----
 
 # Leadership & Collaboration
 
