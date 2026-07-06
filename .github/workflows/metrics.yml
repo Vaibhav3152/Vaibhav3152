@@ -74,6 +74,3 @@ jobs:
 
           plugin_discussions: no
           plugin_people: no
-git add .github/workflows/metrics.yml
-git commit -m "Add GitHub Metrics workflow"
-git push
