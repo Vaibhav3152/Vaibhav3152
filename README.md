@@ -744,3 +744,10 @@ If you like my work, consider following me and exploring my repositories. I'm al
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:312E81,30:4F46E5,60:6D28D9,100:7C3AED"/>
+### 🟩 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Fridge Snake" src="https://raw.githubusercontent.com/Vaibhav3152/Vaibhav3152/output/github-contribution-grid-snake.svg">
+</picture>
